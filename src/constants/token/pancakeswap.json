@@ -34,12 +34,12 @@
       "logoURI": "/images/coins/ETH.png"
     },
     {
-      "name": "BUSD Token",
-      "symbol": "BUSD",
-      "address": "0x615446C0Fd5eA8A5FD7fb763f3FC2C58774474F3",
+      "name": "MBASE",
+      "symbol": "MBASE",
+      "address": "0x3dfaC6B77A065788cb24EAf205b1cA465c48c4E1",
       "chainId": 97,
       "decimals": 18,
-      "logoURI": "/images/coins/BTC.png"
+      "logoURI": "/images/coins/mBASE.png"
     },
     {
       "name": "Bakery Token",
@@ -82,12 +82,12 @@
       "logoURI": "/images/coins/BTC-icon.png"
     },
     {
-      "name": "BAND Protocol Token",
-      "symbol": "BAND",
-      "address": "0xad6caeb32cd2c308980a548bd0bc5aa4306c6c18",
+      "name": "MallsBase",
+      "symbol": "MBASE",
+      "address": "0x3dfaC6B77A065788cb24EAf205b1cA465c48c4E1",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "/images/coins/band.png"
+      "logoURI": "/images/coins/MBASE.png"
     },
     {
       "name": "EOS Token",
