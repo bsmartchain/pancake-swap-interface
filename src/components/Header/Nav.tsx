@@ -16,7 +16,7 @@ const Nav: React.FC = () => {
         <TranslatedText translationId={8}>Exchange</TranslatedText>
       </StyledAbsoluteLink>
       <StyledAbsoluteLink href="https://t.me/BSCexchangeBot">Claim $100 Bonus</StyledAbsoluteLink>
-      <StyledAbsoluteLink href="https://bscscan.com/address/">
+      <StyledAbsoluteLink href="https://bscscan.com/address/0xfc45ad458622e8b04fdb1a675b8747dae7dcb684">
         <TranslatedText translationId={14}>Contract</TranslatedText>
       </StyledAbsoluteLink>
     </StyledNav>
