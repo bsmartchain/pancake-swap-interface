@@ -5,18 +5,18 @@ import TranslatedText from '../TranslatedText'
 const Nav: React.FC = () => {
   return (
     <StyledNav>
-      <StyledAbsoluteLink href="https://mallsbase.finance">
-        <TranslatedText translationId={2}>Farm</TranslatedText>
+      <StyledAbsoluteLink href="https://t.me/BinanceSmartChainExchange">
+        <TranslatedText translationId={2}>Telegram</TranslatedText>
       </StyledAbsoluteLink>
-      <StyledAbsoluteLink href="https://mallsbase.finance/staking">
-        <TranslatedText translationId={4}>Staking</TranslatedText>
+      <StyledAbsoluteLink href="https://t.me/BinanceSmartChainEx">
+        <TranslatedText translationId={4}>ANN</TranslatedText>
       </StyledAbsoluteLink>
       <StyledAbsoluteLink href="/"></StyledAbsoluteLink>
-      <StyledAbsoluteLink href="https://exchange.mallsbase.finance" className="active">
-        <TranslatedText translationId={8}>Trade</TranslatedText>
+      <StyledAbsoluteLink href="https://binancesmartchain.exchange" className="active">
+        <TranslatedText translationId={8}>Swap</TranslatedText>
       </StyledAbsoluteLink>
-      <StyledAbsoluteLink href="https://pancakeswap.info">Analytics</StyledAbsoluteLink>
-      <StyledAbsoluteLink href="https://bscscan.com/address/0x3dfac6b77a065788cb24eaf205b1ca465c48c4e1">
+      <StyledAbsoluteLink href="https://t.me/BSCexchangeBot">Claim $100 Bonus</StyledAbsoluteLink>
+      <StyledAbsoluteLink href="https://bscscan.com/address/">
         <TranslatedText translationId={14}>Contract</TranslatedText>
       </StyledAbsoluteLink>
     </StyledNav>
