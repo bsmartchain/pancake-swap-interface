@@ -80,7 +80,7 @@ const MenuItem = styled(ExternalLink)`
   }
 `
 
-const CODE_LINK = 'https://github.com/mallsbase'
+const CODE_LINK = 'https://github.com/Exchangebsc'
 
 export default function Menu() {
   const node = useRef<HTMLDivElement>()
@@ -100,21 +100,21 @@ export default function Menu() {
             <Info size={14} />
             About
           </MenuItem>
-          <MenuItem id="link" href="https://mallsbase.com">
+          <MenuItem id="link" href="https://binancesmartchain.exchange">
             <BookOpen size={14} />
-            <TranslatedText translationId={10}>Home</TranslatedText>
+            <TranslatedText translationId={10}>Exchange</TranslatedText>
           </MenuItem>
           <MenuItem id="link" href={CODE_LINK}>
             <Code size={14} />
             Code
           </MenuItem>
-          <MenuItem id="link" href="https://t.me/MallsBase">
+          <MenuItem id="link" href="https://t.me/BSCexchangeBot">
             <MessageCircle size={14} />
-            <TranslatedText translationId={34}>Telegram</TranslatedText>
+            <TranslatedText translationId={34}>Airdrop</TranslatedText>
           </MenuItem>
-          <MenuItem id="link" href="https://pancakeswap.info">
+          <MenuItem id="link" href="https://t.me/bscexchange_admin">
             <PieChart size={14} />
-            Analytics
+            Support
           </MenuItem>
         </MenuFlyout>
       )}
