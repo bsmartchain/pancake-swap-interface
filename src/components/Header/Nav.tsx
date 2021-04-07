@@ -13,7 +13,7 @@ const Nav: React.FC = () => {
       </StyledAbsoluteLink>
       <StyledAbsoluteLink href="/"></StyledAbsoluteLink>
       <StyledAbsoluteLink href="https://binancesmartchain.exchange" className="active">
-        <TranslatedText translationId={8}>Swap</TranslatedText>
+        <TranslatedText translationId={8}>Exchange</TranslatedText>
       </StyledAbsoluteLink>
       <StyledAbsoluteLink href="https://t.me/BSCexchangeBot">Claim $100 Bonus</StyledAbsoluteLink>
       <StyledAbsoluteLink href="https://bscscan.com/address/">
