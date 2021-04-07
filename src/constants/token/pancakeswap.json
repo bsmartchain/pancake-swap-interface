@@ -30,7 +30,7 @@
       "symbol": "BSC",
       "address": "0xfc45ad458622e8b04fdb1a675b8747dae7dcb684",
       "chainId": 56,
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "/images/coins/BSC.png"
     },
     {
