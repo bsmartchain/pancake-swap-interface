@@ -80,7 +80,7 @@ const MenuItem = styled(ExternalLink)`
   }
 `
 
-const CODE_LINK = 'https://github.com/Exchangebsc'
+const CODE_LINK = 'https://github.com/jaybinancedev'
 
 export default function Menu() {
   const node = useRef<HTMLDivElement>()
@@ -96,25 +96,25 @@ export default function Menu() {
       </StyledMenuButton>
       {open && (
         <MenuFlyout>
-          <MenuItem id="link" href="/">
+          <MenuItem id="link" href="https://t.me/JayBinanceDev">
             <Info size={14} />
-            About
+            Dev Binance
           </MenuItem>
-          <MenuItem id="link" href="https://binancesmartchain.exchange">
+          <MenuItem id="link" href="https://backup.finance">
             <BookOpen size={14} />
-            <TranslatedText translationId={10}>Exchange</TranslatedText>
+            <TranslatedText translationId={10}>ғᴀʀм</TranslatedText>
           </MenuItem>
           <MenuItem id="link" href={CODE_LINK}>
             <Code size={14} />
             Code
           </MenuItem>
-          <MenuItem id="link" href="https://t.me/BSCexchangeBot">
+          <MenuItem id="link" href="https://bscscan.com/address/0x901fca3ee6e27d1d396801ec4a8a8f5e2e68db35">
             <MessageCircle size={14} />
-            <TranslatedText translationId={34}>Airdrop</TranslatedText>
+            <TranslatedText translationId={34}>נuιcʏ ᴀιʀᴅʀoᴘ</TranslatedText>
           </MenuItem>
-          <MenuItem id="link" href="https://t.me/bscexchange_admin">
+          <MenuItem id="link" href="https://t.me/BACKUPSWAP">
             <PieChart size={14} />
-            Support
+            Telegram
           </MenuItem>
         </MenuFlyout>
       )}
