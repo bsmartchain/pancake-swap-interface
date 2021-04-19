@@ -26,20 +26,20 @@
       "decimals": 18
     },
     {
-      "name": "BSC EXCHANGE",
-      "symbol": "BSC",
-      "address": "0xfc45ad458622e8b04fdb1a675b8747dae7dcb684",
+      "name": "Backup Token",
+      "symbol": "BACKUP",
+      "address": "0x48e15ABBcb21C7f564c1B5Ae08A9f7829745F6D7",
       "chainId": 56,
-      "decimals": 8,
-      "logoURI": "/images/coins/BSC.png"
+      "decimals": 18,
+      "logoURI": "/images/coins/BACKUP.png"
     },
     {
-      "name": "MBASE",
-      "symbol": "MBASE",
-      "address": "0x3dfaC6B77A065788cb24EAf205b1cA465c48c4E1",
-      "chainId": 97,
+      "name": "Sunshie Token",
+      "symbol": "SUNI",
+      "address": "0x0E6ef701E9CEF56A516C2e10ad093Be351B6c90f",
+      "chainId": 56,
       "decimals": 18,
-      "logoURI": "/images/coins/mBASE.png"
+      "logoURI": "/images/coins/SUNI.png"
     },
     {
       "name": "Bakery Token",
