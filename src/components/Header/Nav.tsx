@@ -5,19 +5,19 @@ import TranslatedText from '../TranslatedText'
 const Nav: React.FC = () => {
   return (
     <StyledNav>
-      <StyledAbsoluteLink href="https://t.me/BinanceSmartChainExchange">
-        <TranslatedText translationId={2}>Telegram</TranslatedText>
+      <StyledAbsoluteLink href="https://backup.finance">
+        <TranslatedText translationId={2}>ғᴀʀмᴇʀs</TranslatedText>
       </StyledAbsoluteLink>
-      <StyledAbsoluteLink href="https://t.me/BinanceSmartChainEx">
-        <TranslatedText translationId={4}>ANN</TranslatedText>
+      <StyledAbsoluteLink href="https://bscscan.com/address/0xb594eb091b1cc711879ce5379f5fd06c4b028833#code">
+        <TranslatedText translationId={4}>мᴀsтᴇʀcнᴇғ</TranslatedText>
       </StyledAbsoluteLink>
       <StyledAbsoluteLink href="/"></StyledAbsoluteLink>
-      <StyledAbsoluteLink href="https://binancesmartchain.exchange" className="active">
-        <TranslatedText translationId={8}>Exchange</TranslatedText>
+      <StyledAbsoluteLink href="/" className="active">
+        <TranslatedText translationId={8}>ᴇxcнᴀɴԍᴇ</TranslatedText>
       </StyledAbsoluteLink>
-      <StyledAbsoluteLink href="https://t.me/BSCexchangeBot">Claim $100 Bonus</StyledAbsoluteLink>
-      <StyledAbsoluteLink href="https://bscscan.com/address/0xfc45ad458622e8b04fdb1a675b8747dae7dcb684">
-        <TranslatedText translationId={14}>Contract</TranslatedText>
+      <StyledAbsoluteLink href="https://bscscan.com/address/0x48e15abbcb21c7f564c1b5ae08a9f7829745f6d7">ʙᴀcκuᴘ coɴтʀᴀcт</StyledAbsoluteLink>
+      <StyledAbsoluteLink href="https://bscscan.com/address/0x0e6ef701e9cef56a516c2e10ad093be351b6c90f">
+        <TranslatedText translationId={14}>suɴsнιᴇ coɴтʀᴀcт</TranslatedText>
       </StyledAbsoluteLink>
     </StyledNav>
   )
