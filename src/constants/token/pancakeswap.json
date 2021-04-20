@@ -122,9 +122,17 @@
       "logoURI": "/images/coins/BCH-icon.png"
     },
     {
-      "name": "Litecoin Token",
+      "name": "renBTC",
       "symbol": "LTC",
       "address": "0x4338665cbb7b2485a8855a139b75d5e34ab0db94",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/renBTC.png"
+    },
+    {
+      "name": "Litecoin Token",
+      "symbol": "LTC",
+      "address": "0xfCe146bF3146100cfe5dB4129cf6C82b0eF4Ad8c",
       "chainId": 56,
       "decimals": 18,
       "logoURI": "/images/coins/LTC-icon.png"
