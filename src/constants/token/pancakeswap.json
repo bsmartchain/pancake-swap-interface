@@ -138,6 +138,14 @@
       "logoURI": "/images/coins/LTC-icon.png"
     },
     {
+      "name": "MDEX",
+      "symbol": "MDEX",
+      "address": "0x9C65AB58d8d978DB963e63f2bfB7121627e3a739",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/MDEX.png"
+    },
+    {
       "name": "Cardano Token",
       "symbol": "ADA",
       "address": "0x3ee2200efb3400fabb9aacf31297cbdd1d435d47",
