@@ -82,12 +82,12 @@
       "logoURI": "/images/coins/BTC-icon.png"
     },
     {
-      "name": "MallsBase",
-      "symbol": "MBASE",
-      "address": "0x3dfaC6B77A065788cb24EAf205b1cA465c48c4E1",
+      "name": "pBTC",
+      "symbol": "pBTC",
+      "address": "0xeD28A457A5A76596ac48d87C0f577020F6Ea1c4C",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "/images/coins/MBASE.png"
+      "logoURI": "/images/coins/pBTC.png"
     },
     {
       "name": "EOS Token",
@@ -123,7 +123,7 @@
     },
     {
       "name": "renBTC",
-      "symbol": "LTC",
+      "symbol": "renBTC",
       "address": "0x4338665cbb7b2485a8855a139b75d5e34ab0db94",
       "chainId": 56,
       "decimals": 18,
