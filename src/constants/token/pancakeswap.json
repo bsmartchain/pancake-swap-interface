@@ -146,6 +146,14 @@
       "logoURI": "/images/coins/MDEX.png"
     },
     {
+      "name": "SafeNebulaV2",
+      "symbol": "wSNBL",
+      "address": "0x08528E037f6D580E3dc28441210C6c15bA928842",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/wSNBL.png"
+    },
+    {
       "name": "Cardano Token",
       "symbol": "ADA",
       "address": "0x3ee2200efb3400fabb9aacf31297cbdd1d435d47",
