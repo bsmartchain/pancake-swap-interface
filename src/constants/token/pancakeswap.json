@@ -90,12 +90,12 @@
       "logoURI": "/images/coins/pBTC.png"
     },
     {
-      "name": "EOS Token",
-      "symbol": "EOS",
-      "address": "0x56b6fb708fc5732dec1afc8d8556423a2edccbd6",
+      "name": "Safe Gas",
+      "symbol": "SAFEGAS",
+      "address": "0xdBd083b36E07859f20ad0010366c748faF04cA0B",
       "chainId": 56,
-      "decimals": 18,
-      "logoURI": "/images/coins/eos.png"
+      "decimals": 9,
+      "logoURI": "/images/coins/SAFEGAS.png"
     },
     {
       "name": "Tether USD",
